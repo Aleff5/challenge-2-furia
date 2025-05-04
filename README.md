@@ -1,6 +1,6 @@
 # Know Your Fan 🎮
 
-**Know Your Fan** é uma plataforma interativa voltada para a comunidade de e-sports, que permite o engajamento entre fãs e eventos. A aplicação oferece funcionalidades tanto para usuários comuns quanto para administradores, com dashboards personalizados, autenticação segura por cookies, verificação de identidade com IA e análise de dados.
+**Know Your Fan** é uma plataforma interativa voltada para a comunidade de e-sports, que permite o engajamento entre fãs e eventos. A aplicação oferece funcionalidades tanto para usuários comuns quanto para equipes que buscam entender melhor seu publico, com dashboards personalizados, autenticação segura por cookies, verificação de identidade com IA e análise de dados.
 
 ---
 
@@ -117,22 +117,3 @@ npm run dev
 - ReDoc: `http://localhost:8000/redoc`
 
 ---
-
-## 📬 Contribuição
-
-Contribuições são bem-vindas! Certifique-se de manter a padronização do projeto.
-
----
-
-## 📝 Licença
-
-Distribuído sob a licença MIT.
-
----
-
-## 🙌 Agradecimentos
-
-- FastAPI
-- AWS Rekognition
-- Google Gemini API
-- Lovable AI
